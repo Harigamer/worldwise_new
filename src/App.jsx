@@ -16,7 +16,6 @@ const BASE_URL = "http://localhost:8000";
 
 function App() {
   
-
   return (
     <CitiesProvider>
     <BrowserRouter>
